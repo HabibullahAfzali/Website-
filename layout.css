@@ -9,3 +9,9 @@ text-align: center;
 color: red;
 font-size: large;
 }
+table {
+
+    border-radius: 10px;
+    margin: auto;
+    padding: 4px;
+}
