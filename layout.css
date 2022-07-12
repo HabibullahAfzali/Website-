@@ -9,7 +9,10 @@ text-align: center;
 color: red;
 font-size: large;
 }
-table , th ,td {
+table{
+    border: 1px solid black;   
+}
+th ,td {
 border: 1px solid black;
 border-collapse: collapse;
 margin: auto;
