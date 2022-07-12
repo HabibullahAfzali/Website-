@@ -9,6 +9,12 @@ text-align: center;
 color: red;
 font-size: large;
 }
-table, th, td {
-    border:1px solid black;
-  }
+table {
+    border: 10px;
+    margin: auto;
+    padding: 4px;
+    color: black;
+}
+th{
+border-radius: 1rem;
+}
