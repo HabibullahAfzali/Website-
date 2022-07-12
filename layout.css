@@ -11,7 +11,11 @@ font-size: large;
 }
 table {
 
-    border-radius: 10px;
+    border: 10px;
     margin: auto;
     padding: 4px;
+    color: black;
+}
+th{
+border-radius: 1rem;
 }
